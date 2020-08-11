@@ -10,7 +10,7 @@ Are you just getting into alternative country, and want to learn more about some
 
 The app contains several separate pages within a hierarchy. The pages include:
 
-1. Homepage
+1. Homepage: https://kateand624.github.io/altcountryartists/module5andersonsaltcountryartists.html
 2. Steve Earle subpage
 3. Jason Isbell subpage
 4. The Jayhawks subpage
